@@ -8,4 +8,10 @@
  This Python script can be run in the background.
 
  Check the documentation.pdf file for an in-depth description of the project.
+
  
+ 
+
+
+https://github.com/leyusufo/RaspberryPi4_CPU_Temperature_Utilization_Frequency_Log/assets/78242042/52712fcc-5787-40d1-b700-7584eb0543a1
+
