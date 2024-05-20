@@ -1,5 +1,5 @@
 # RaspberryPi4_CPU_Temperature_Utilization_Frequency_Log
- Python script that displays the CPU Temperature, Utilization, and Frequency over time of the Raspberry Pi 4.
+ This Python script measures and displays the CPU Temperature, Utilization, and Frequency overtime on the Raspberry Pi 4.
  
  The graphs are updated in real-time on a 5-second interval.
  
