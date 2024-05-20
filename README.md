@@ -7,5 +7,5 @@
  
  This Python script can be run in the background.
 
- Check the documentation.pdf file for the in-depth description of the project.
+ Check the documentation.pdf file for an in-depth description of the project.
  
